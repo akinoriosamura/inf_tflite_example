@@ -1,4 +1,4 @@
-## runner tflite mode
+## runner tflite model
 ### setup 
  - install pipenv
 ```
